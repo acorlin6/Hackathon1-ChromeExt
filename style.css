@@ -1,0 +1,28 @@
+#start-button {
+  background-color: aqua;
+  border-radius: 30px;
+  display: block;
+  width: 60px;
+  margin-top: 5px;
+}
+#pause-button {
+  background-color: azure;
+  border-radius: 30px;
+  display: block;
+  width: 60px;
+  margin-top: 5px;
+}
+
+#reset-button {
+  background-color: blueviolet;
+  border-radius: 30px;
+  display: block;
+  width: 60px;
+  margin-top: 5px;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/000/598/667/non_2x/light-pastel-color-vector-low-poly-crystal-background-polygon-design-pattern-low-poly-illustration-background.jpg");
+  height: 400 px;
+  width: 700px;
+}
