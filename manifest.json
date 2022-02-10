@@ -9,6 +9,8 @@
         "default_popup": "index.html",
         "default_icon": "45min-timer-logo.png"
       },
+      "icons": { "16": "45min-timer-logo.png"
+      },
       "commands": {
         "_execute_action": {
           "suggested_key": {
